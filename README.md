@@ -1,15 +1,22 @@
-### Date created
-Include the date you created this project and README file.
+Date created
 
-### Project Title
-Replace the Project Title
+Friday Feb 28
+Project Title
 
-### Description
-Describe what your project is about and what it does
+Learning Git with remote repositories
+Description
 
-### Files used
-Include the files used
+Learning how to synch local and remote repositories
+Files used
 
-### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+.gitignore
+
+collatz.py
+
+query1.csv
+
+README.MD
+Credits###
+
+Learning on Udacity Nanodegree for Data Science
 
