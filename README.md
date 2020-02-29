@@ -1,22 +1,15 @@
-Date created
+Date Created 2.29.2020
 
-Friday Feb 28
-Project Title
+Udacity GITHUB Project
 
-Learning Git with remote repositories
-Description
+Project to use remote repositories functionality to validate users ability to function in collaberative enviroment 
 
-Learning how to synch local and remote repositories
-Files used
+Files used. Note that unable to use bikeshare.py files as project completed on remote lab enviroment
 
-.gitignore
+README.md
+.ignore
+Collatz.py
+query.csv
 
-collatz.py
-
-query1.csv
-
-README.MD
-Credits###
-
-Learning on Udacity Nanodegree for Data Science
-
+Credits
+Udacity Data Science Program 
