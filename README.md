@@ -8,9 +8,12 @@ Learning Git with remote repositories
 Learning how to synch local and remote repositories 
 
 ### Files used
-.gitignore /n
-collatz.py /n
-query1.csv /n
+.gitignore
+
+collatz.py
+
+query1.csv
+
 README.MD
 
 ### Credits###
