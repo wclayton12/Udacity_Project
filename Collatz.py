@@ -11,7 +11,7 @@ def check_number(number):
         collatz(number)
 def collatz(number):
     if number != 1:
-        print("You have selected: ", number)
+        print("Your current number is: ", number)
         check_number(number)
     if number == 1:
         print("Final number is: "  +  str(number))
